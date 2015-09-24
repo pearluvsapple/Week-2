@@ -11,7 +11,7 @@
 6. Create a path for "jquery" to "vendors/jquery.min"
 7. Do the same for Bootstrap
 
-## Refactor Playlist 
+## Refactor Playlist
 1. Wrap the Playlist in a define method that depends on jquery
 2. Wrap the main.js code that initializes a Playlist in a `require()`
 3. Make sure to inject the Playlist into that require block
